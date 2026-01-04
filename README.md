@@ -55,3 +55,9 @@ CONTROL_MODE: Keyboard, hand gesture, or both
 MODEL_PATH: Path to the MediaPipe hand landmark model
 
 Sound file paths for fruit and collision events
+
+---
+
+## Future Improvements
+
+The gesture are to be more regulated and controlable
